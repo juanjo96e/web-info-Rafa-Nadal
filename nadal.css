@@ -1,0 +1,31 @@
+h3 {color: rgb(35, 209, 0);background-color: rgba(4, 141, 22, 0.534);}
+h1 {color: rgb(136, 255, 0);
+    text-shadow: 2px 2px #ff0000;
+}
+h4{color: rgb(255, 165, 47);}
+em{
+    color: red;
+    font-style:initial;
+    text-decoration: underline;
+}
+address{background-color: rgb(0, 151, 45);
+        font-style: normal;
+        text-align: right;
+}
+strong{
+    color: orangered;
+    font-weight:lighter;
+}
+p{background-color: rgba(175, 174, 174, 0.219);}
+p{color: white;}
+body{background-image: url(https://fotografias.lasexta.com/clipping/cmsimages02/2022/11/12/2A0EEF68-9708-4D7A-97AE-6710EF6D59BA/rafa-nadal_98.jpg?crop=1200,675,x0,y0&width=1900&height=1069&optimize=low&format=webply);}
+
+h1 {
+    background-color: rgba(28, 29, 29, 0)55);
+    transition: background-color .8s;
+    margin-right: 90%;
+      }
+      
+h1:hover {
+    background-color: rgb(255, 0, 0);
+      }
